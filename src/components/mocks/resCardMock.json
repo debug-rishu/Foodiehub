@@ -1,0 +1,74 @@
+ {
+    "info": {
+      "id": "525247",
+      "name": "Olio - The Wood Fired Pizzeria",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/19/2ca8676e-39ca-4aba-928d-ba1b31c0aa65_525247.jpg",
+      "locality": "Roopena Agrahara",
+      "areaName": "Bommanahalli",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Pizzas","Italian"],
+      "avgRating": 3.3,
+      "parentId": "11633",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "3.4K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 2.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-09 05:00:00",
+        "opened": true
+      },
+      "badges": {
+        
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    }
+ }
